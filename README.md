@@ -1,3 +1,4 @@
 # image_classfication
+Academic project: Dataset Optimization To Improve The Image Classification Process
 image classification using SVM, Local binary pattern
-using kmeans clustering to remove duplicate images
+used kmeans clustering to remove duplicate images
